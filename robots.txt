@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jwst-epochs.github.io/sitemap.xml
+Sitemap: https://jwst-epochs.github.io/JWST-EPOCHS//sitemap.xml
