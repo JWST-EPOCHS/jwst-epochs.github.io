@@ -1,28 +1,37 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: members of the lab or group
+title: Team members
+description: EPOCHS collaboration members at teh University of Manchester
 nav: true
 nav_order: 7
 
 profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    image: chris_conselice.jpg
+    content: about_chris.md
+    image_circular: false
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Principal Investigator</p>
+      <p>conselice@manchester.ac.uk</p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    image: nathan_adams.jpg
+    content: about_nathan.md
+    image_circular: false
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Former Postdoctoral Research Associate</p>
+  - align: right
+    image: duncan_austin.jpg
+    content: about_duncan.md
+    image_circular: false
+    more_info: >
+      <p>Postdoctoral Research Associate</p>
+      <p>duncan.austin@manchester.ac.uk</p>
+  - align: left
+    image: thomas_harvey.jpg
+    content: about_tom.md
+    image_circular: false
+    more_info: >
+      <p>Postdoctoral Research Associate</p>
+      <p>thomas.harvey-3@manchester.ac.uk</p>
 ---

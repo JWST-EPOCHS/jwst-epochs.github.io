@@ -1,14 +1,15 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - duncanaustin98
+  - tHarvey303
+  - conselice
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - duncanaustin98/galfind
+  - tHarvey303/EpochsI
+  - duncanaustin98/EPOCHS-III-data
+  - duncanaustin98/EPOCHS-v2
+  - tHarvey303/BD-Finder
+  - tHarvey303/EXPANSE
+
