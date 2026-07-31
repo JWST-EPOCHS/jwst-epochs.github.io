@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: EPOCHS-DR1 Publications by in reversed chronological order.
+description: EPOCHS-DR1 publications in reversed chronological order.
 nav: true
 nav_order: 2
 ---

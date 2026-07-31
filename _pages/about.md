@@ -29,4 +29,4 @@ social: false # includes social icons at the bottom of the page
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-EPOCHS is a fantastic collaboration!
+EPOCHS is a fantastic collaboration! We have an upcoming EPOCHS-DR2 now!

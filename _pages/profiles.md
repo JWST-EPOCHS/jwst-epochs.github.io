@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: Team members
-description: EPOCHS collaboration members at teh University of Manchester
+description: EPOCHS collaboration members at the University of Manchester
 nav: true
 nav_order: 7
 
@@ -10,7 +10,7 @@ profiles:
   - align: right
     image: chris_conselice.jpg
     content: about_chris.md
-    image_circular: false
+    image_circular: true
     more_info: >
       <p>Principal Investigator</p>
       <p>conselice@manchester.ac.uk</p>
