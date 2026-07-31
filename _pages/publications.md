@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: EPOCHS-DR1 publications in reversed chronological order.
+description: EPOCHS collaboration publications in reversed chronological order.
 nav: true
 nav_order: 2
 ---
@@ -15,6 +15,19 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+<details open>
+  <summary><strong>EPOCHS-DR1</strong></summary>
+  {% bibliography --query @*[keywords ~= "EPOCHS-DR1"] %}
+</details>
+
+<details>
+  <summary><strong>EPOCHS-DR2</strong></summary>
+  {% bibliography --query @*[keywords ~= "EPOCHS-DR2"] %}
+</details>
+
+<details>
+  <summary><strong>Related works</strong></summary>
+  {% bibliography --query @*[keywords ~= "non-EPOCHS"] %}
+</details>
 
 </div>
