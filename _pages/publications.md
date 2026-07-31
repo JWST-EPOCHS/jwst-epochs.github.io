@@ -17,17 +17,17 @@ nav_order: 2
 
 <details open>
   <summary><strong>EPOCHS-DR1</strong></summary>
-  {% bibliography --query @*[keywords ~= "EPOCHS-DR1"] %}
+  {% bibliography --query @*[keywords=/EPOCHS-DR1/] %}
 </details>
 
-<details>
+<!-- <details>
   <summary><strong>EPOCHS-DR2</strong></summary>
-  {% bibliography --query @*[keywords ~= "EPOCHS-DR2"] %}
-</details>
+  {% bibliography --query @*[keywords=/EPOCHS-DR2/] %}
+</details> -->
 
 <details>
-  <summary><strong>Related works</strong></summary>
-  {% bibliography --query @*[keywords ~= "non-EPOCHS"] %}
+  <summary><strong>Non-EPOCHS series collaboration papers</strong></summary>
+  {% bibliography --query @*[keywords=/non-EPOCHS/] %}
 </details>
 
 </div>
