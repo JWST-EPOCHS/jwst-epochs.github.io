@@ -17,7 +17,7 @@ nav_order: 2
 
 <details open>
   <summary><strong>EPOCHS-DR1 series</strong></summary>
-  {% bibliography --query @*[series=/EPOCHS-DR1/] %}
+  {% bibliography --query @*[keywords ~= EPOCHS-DR1] %}
 </details>
 
 <!-- <details>
@@ -27,7 +27,7 @@ nav_order: 2
 
 <details>
   <summary><strong>Non-EPOCHS series collaboration papers</strong></summary>
-  {% bibliography --query @*[series=/non-EPOCHS/] %}
+  {% bibliography --query @*[keywords ~= Non-EPOCHS] %}
 </details>
 
 </div>
