@@ -20,13 +20,13 @@ nav_order: 2
   {% bibliography --query @*[keywords ~= EPOCHS-DR1] %}
 </details>
 
-<!-- <details>
+<details>
   <summary><strong>EPOCHS-DR2</strong></summary>
   {% bibliography --query @*[keywords=/EPOCHS-DR2/] %}
-</details> -->
+</details>
 
 <details>
-  <summary><strong>Non-EPOCHS series collaboration papers</strong></summary>
+  <summary><strong>Collaboration papers</strong></summary>
   {% bibliography --query @*[keywords ~= Non-EPOCHS] %}
 </details>
 
