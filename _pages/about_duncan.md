@@ -1,6 +1,14 @@
 
-# Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com).
+# Duncan Austin (he/him)
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Duncan completed his PhD titled "Inferring the properties of star forming galaxies in the Epoch of Reionization with JWST" with supervisor Christopher Conselice at the University of Manchester (JBCA) in summer 2025. He is the lead contributor for the photometric cataloguing and SED fitting pipeline software [galfind](https://github.com/duncanaustin98/galfind) crucial for the HST/ACS-WFC, JWST/NIRCam, and JWST/MIRI data procurement used throughout the EPOCHS (DR1 and now DR2) paper series'.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+His extragalactic research interests cover a broad range of topics, including, but not limited to:
+ - High-redshift galaxy identification and the Ultraviolet Luminosity Function
+ - Build up of dust in the early Universe
+ - Mini-quenched/smouldering systems
+ - Contribution of galaxies to hydrogen reionization
+ - Halo-galaxy connection and halo occupation distribution constraints
+ - Cosmic variance and galaxy bias scale dependence
+
+Link to his CV and personal website here!
