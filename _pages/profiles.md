@@ -69,4 +69,11 @@ profiles:
     more_info: >
       <p>3rd year PhD student</p>
       <p>lewi.westcott@manchester.ac.uk</p>
+  - align: right
+    image: james_arcidiacono.jpg
+    content: about_james_a.md
+    image_circular: true
+    more_info: >
+      <p>Research Assistant</p>
+      <p>james.arcidiacono@manchester.ac.uk</p>
 ---
